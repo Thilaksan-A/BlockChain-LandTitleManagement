@@ -331,7 +331,6 @@ contract PropertyManagement {
             properties[_propId].value,
             _propId,
             block.timestamp + 2628000 // roughly 1 month
-            // best practice is to get the oracle to provide the current time (if we have time)
         );
 
         propertySale[_propId] == false; // so we dont end up with multiple intiating escrow on same property all at once.
