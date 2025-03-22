@@ -1,6 +1,6 @@
 # BlockChain-LandTitleManagement
 
-This project is a blockchain based solution to managaing land titles with the aim of simplifying the process of registering, transferring and verifying land ownership:
+This project is a blockchain based solution to managing land titles with the aim of simplifying the process of registering, transferring and verifying land ownership:
 
 
 
